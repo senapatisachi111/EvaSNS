@@ -52,7 +52,7 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/senapatisachi111/EvaSNS
 
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/Miajl2amrKo)**</i>
